@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Greeter</title>
+<meta charset="utf-8">
+
+</head>
+<body>
+
+<p>Well hello, %NAME%!</p>
+<p> Not a correct name Try again...</p>
+
+<form>
+
+	<input type="text" name="first-name">
+
+</form>
+
+</body>
+</html>
